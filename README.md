@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=0:FFC6C6,100:95DFFF&height=200&text=At&nbsp;one's&nbsp;own&nbsp;pace&fontColor=000000&fontAlign=84&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=0:FFC6C6,100:95DFFF&height=200&text=At&nbsp;one's&nbsp;own&nbsp;pace&fontColor=000000&fontAlign=50&animation=fadeIn)
 <!-- <h1 align="center">Hi 👋, I'm Kim Do yeon</h1> -->
 <h1 align="center"> :computer:  웹 디자이너/ 웹 퍼블리셔</h1> 
 <h3 align="center">Are you nervous? Don't be</h3> 
