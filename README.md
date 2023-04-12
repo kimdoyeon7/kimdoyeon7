@@ -21,3 +21,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimdoyeon7&theme=buefy&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimdoyeon7&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+# :mailbox_with_mail: Contacts
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kiimyeon7@gmail.com)](mailto:kiimyeon7@gmail.com)
